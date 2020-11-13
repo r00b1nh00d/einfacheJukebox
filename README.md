@@ -113,7 +113,7 @@ Um das Programm noch zu erweitern kannst du gerne versuchen Mithilfe der Blöcke
 
 
 #### Dieses Tutorial verwenden
-Um dieses Tutorial zu verwenden muss der link [https://makecode.calliope.cc/beta/#tutorial:https://github.com/r00b1nh00d/einfacheJukebox] in das Adressfeld des Browsers kopiert werden.
+Um dieses Tutorial zu verwenden muss der link [https://makecode.calliope.cc/#tutorial:https://github.com/r00b1nh00d/einfacheJukebox] in das Adressfeld des Browsers kopiert werden.
 
 #### Metadaten (verwendet für Suche, Rendering)
 
